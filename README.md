@@ -20,9 +20,8 @@ Built a recommendation system with rank based recommendations, user-user based c
 # File Descriptions<a name="files"></a>
 There are 1 python files implement the product.
 
-Recommendations_with_IBM.ipynb--The implementation of rank based recommendations, user-user based collaborative filtering, and matrix factorization perdiction
+Recommendations_with_IBM.html--The implementation of rank based recommendations, user-user based collaborative filtering, and matrix factorization perdiction
 
-Recommendations_with_IBM.html--report
 
 # Results<a name="results"></a>
 Built the recommendation system making recommendation by rank based for new users(cold start), while making recommendations by user-user based collaborative filtering for old users(who had interactions of articles). We can also use SVD matrix factorization model prediction making recommendaions for old users. 
